@@ -1,9 +1,18 @@
-{
-    "repo_name": "burixon-dark",
-    "display_name": "Burixon Themes",
-    "description": "Collection of 18 custom themes for Micro editor",
-    "author": "BuriXon-code",
-    "repository": "https://github.com/BuriXon-code/micro-burixon-dark",
-    "tags": ["themes", "colors", "micro"],
-    "file_patterns": ["*.lua", "themes/*.micro"]
-}
+[
+  {
+    "Name": "burixon-dark",
+    "Description": "A collection of beautiful themes for the Micro editor",
+    "Website": "https://github.com/BuriXon-code/micro-burixon-dark",
+    "Author": "BuriXon-code",
+    "Tags": ["colorscheme", "themes"],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/BuriXon-code/micro-burixon-dark/raw/main/burixon-dark.zip",
+        "Require": {
+          "micro": ">=1.1.3"
+        }
+      }
+    ]
+  }
+]
