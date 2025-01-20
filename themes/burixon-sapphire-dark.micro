@@ -1,0 +1,149 @@
+# Micro "sapphire-dark" color scheme made by BuriXon-code (c) 2025
+
+# General elements
+color-link comment "bold #808080"
+color-link constant "#7A7AFF"
+color-link constant.bool "bold #5C5CFF"
+color-link constant.bool.true "bold #7A7AFF"
+color-link constant.bool.false "bold #4040FF"
+color-link constant.string "#5C5CFF"
+color-link constant.string.url "underline #4040FF, #808080"
+color-link constant.number "#7A7AFF"
+color-link constant.specialChar "bold #8A8AFF"
+
+# Identifiers
+color-link identifier "bold #7A7AFF"
+color-link identifier.macro "bold #5C5CFF"
+color-link identifier.var "bold #4040FF"
+color-link identifier.class "bold #7A7AFF"
+color-link identifier.function "bold #5C5CFF"
+color-link identifier.property "bold #4040FF"
+color-link identifier.method "bold #8A8AFF"
+color-link identifier.interface "bold #7A7AFF"
+
+# Statements and symbols
+color-link statement "bold #7A7AFF"
+color-link symbol "#4040FF"
+color-link symbol.brackets "#8A8AFF"
+color-link symbol.tag "bold #4040FF"
+color-link symbol.tag.extended "bold #5C5CFF"
+color-link preproc "bold #7A7AFF"
+color-link type "#5C5CFF"
+color-link type.keyword "bold #7A7AFF"
+color-link special "#8A8AFF"
+color-link type.interface "bold #5C5CFF"
+color-link type.enum "bold #7A7AFF"
+color-link type.class "bold #4040FF"
+color-link type.generic "bold #5C5CFF"
+
+# Shebang (used for file interpreters)
+color-link shebang "bold #4040FF"
+
+# General colors
+color-link ignore "default"
+color-link error "bold #FF0000"
+color-link todo "underline #4040FF, #808080"
+
+# Search and indentation colors
+color-link hlsearch "#808080, #4040FF"
+color-link indent-char "#808080"
+
+# Line and column numbers
+color-link line-number "#808080"
+color-link line-number.scrollbar "#4040FF"
+color-link current-line-number "#7A7AFF"
+color-link current-line-number.scroller "#7A7AFF"
+
+# Diff colors (added, modified, deleted)
+color-link diff-added "#4040FF"
+color-link diff-modified "#7A7AFF"
+color-link diff-deleted "#FF0000"
+
+# Gutter colors (error, warning)
+color-link gutter-error "#FF0000"
+color-link gutter-warning "#5C5CFF"
+
+# Column color and URL underlines
+color-link color-column "#7A7AFF"
+color-link underlined.url "underline #4040FF, #808080"
+
+# Miscellaneous
+color-link divider "#4040FF"
+color-link match-brace "#4040FF, #7A7AFF"
+color-link tab-error "#FF0000"
+color-link trailingws "#4040FF"
+
+# Variable colors
+color-link variable "#7A7AFF"
+color-link variable.local "#5C5CFF"
+color-link variable.global "#4040FF"
+color-link variable.this "#5C5CFF"
+
+# Function colors
+color-link function "#4040FF"
+color-link function.local "#FF0000"
+color-link function.global "#7A7AFF"
+
+# Method colors (regular, static, virtual)
+color-link method "#5C5CFF"
+color-link method.static "#8A8AFF"
+color-link method.virtual "#4040FF"
+
+# Class colors
+color-link class "#4040FF"
+color-link class.abstract "#7A7AFF"
+
+# Interface colors
+color-link interface "#7A7AFF"
+color-link interface.implemented "#5C5CFF"
+
+# Enum and enum item colors
+color-link enum "#7A7AFF"
+color-link enum.item "#5C5CFF"
+
+# Property colors
+color-link property "#4040FF"
+color-link getter "#7A7AFF"
+color-link setter "#5C5CFF"
+
+# Literal colors (boolean, number, string, char)
+color-link literal "#7A7AFF"
+color-link literal.boolean "#4040FF"
+color-link literal.number "#5C5CFF"
+color-link literal.string "#5C5CFF"
+color-link literal.char "#5C5CFF"
+
+# Comment block, line, and documentation colors
+color-link comment.block "#808080"
+color-link comment.line "#808080"
+color-link comment.documentation "#4040FF"
+
+# HTML-like tag colors
+color-link tag "#4040FF"
+color-link tag.extended "#5C5CFF"
+color-link tag.selfclosing "#8A8AFF"
+color-link tag.attribute "#5C5CFF"
+color-link tag.attribute.value "#4040FF"
+color-link tag.attribute.name "#7A7AFF"
+
+# Operator colors (assignment, comparison, arithmetic, logical)
+color-link operator "#4040FF"
+color-link operator.assignment "#7A7AFF"
+color-link operator.comparison "#5C5CFF"
+color-link operator.arithmetic "#5C5CFF"
+color-link operator.logical "#7A7AFF"
+
+# Control flow colors (if, else, switch, etc.)
+color-link control-flow "#5C5CFF"
+color-link control-flow.if "#7A7AFF"
+color-link control-flow.else "#4040FF"
+color-link control-flow.switch "#5C5CFF"
+color-link control-flow.case "#4040FF"
+color-link control-flow.break "#8A8AFF"
+color-link control-flow.return "#7A7AFF"
+
+# Error and message colors
+color-link error-message "#FF0000"
+color-link warning-message "#5C5CFF"
+color-link info-message "#7A7AFF"
+color-link success-message "#4040FF"
