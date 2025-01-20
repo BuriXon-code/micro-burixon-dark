@@ -8,7 +8,7 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "Url": "https://github.com/BuriXon-code/micro-burixon-dark/raw/main/burixon-dark.zip",
+        "Url": "https://github.com/BuriXon-code/micro-burixon-dark/themes/burixon-dark.zip",
         "Require": {
           "micro": ">=1.1.3"
         }
