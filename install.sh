@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Simple colorschemes installer for https://github.com/BuriXon-code/micro-burixon-dark/ themes.
+# The script is used to extract a cloned ZIP file containing themes for the Micro text editor.
+# Made by BuriXon-code (c) 2025
+
 ZIP_FILE="$(pwd)/themes/burixon-dark.zip"
 DEST_DIR="$HOME/.config/micro/colorschemes"
 
